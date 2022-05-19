@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c529f91.chunk.css",
-    "main.js": "/static/js/main.e8b5c8bf.chunk.js",
-    "main.js.map": "/static/js/main.e8b5c8bf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.297f6f71.js",
-    "runtime-main.js.map": "/static/js/runtime-main.297f6f71.js.map",
-    "static/js/2.72303b8e.chunk.js": "/static/js/2.72303b8e.chunk.js",
-    "static/js/2.72303b8e.chunk.js.map": "/static/js/2.72303b8e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fbd03f086503fa6603034327891597a7.js": "/precache-manifest.fbd03f086503fa6603034327891597a7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5c529f91.chunk.css.map": "/static/css/main.5c529f91.chunk.css.map",
-    "static/js/2.72303b8e.chunk.js.LICENSE.txt": "/static/js/2.72303b8e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.9a3d2645.svg"
+    "main.css": "/cocktail-recipe-app/static/css/main.5c529f91.chunk.css",
+    "main.js": "/cocktail-recipe-app/static/js/main.b9f6dcc3.chunk.js",
+    "main.js.map": "/cocktail-recipe-app/static/js/main.b9f6dcc3.chunk.js.map",
+    "runtime-main.js": "/cocktail-recipe-app/static/js/runtime-main.cf1abd35.js",
+    "runtime-main.js.map": "/cocktail-recipe-app/static/js/runtime-main.cf1abd35.js.map",
+    "static/js/2.e42185e2.chunk.js": "/cocktail-recipe-app/static/js/2.e42185e2.chunk.js",
+    "static/js/2.e42185e2.chunk.js.map": "/cocktail-recipe-app/static/js/2.e42185e2.chunk.js.map",
+    "index.html": "/cocktail-recipe-app/index.html",
+    "precache-manifest.5ec61e000a09b9a23238341a2f381ea4.js": "/cocktail-recipe-app/precache-manifest.5ec61e000a09b9a23238341a2f381ea4.js",
+    "service-worker.js": "/cocktail-recipe-app/service-worker.js",
+    "static/css/main.5c529f91.chunk.css.map": "/cocktail-recipe-app/static/css/main.5c529f91.chunk.css.map",
+    "static/js/2.e42185e2.chunk.js.LICENSE.txt": "/cocktail-recipe-app/static/js/2.e42185e2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cocktail-recipe-app/static/media/logo.9a3d2645.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.297f6f71.js",
-    "static/js/2.72303b8e.chunk.js",
+    "static/js/runtime-main.cf1abd35.js",
+    "static/js/2.e42185e2.chunk.js",
     "static/css/main.5c529f91.chunk.css",
-    "static/js/main.e8b5c8bf.chunk.js"
+    "static/js/main.b9f6dcc3.chunk.js"
   ]
 }
