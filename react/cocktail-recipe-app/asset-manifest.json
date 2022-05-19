@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/cocktail-recipe-app/static/css/main.5c529f91.chunk.css",
-    "main.js": "/cocktail-recipe-app/static/js/main.b9f6dcc3.chunk.js",
-    "main.js.map": "/cocktail-recipe-app/static/js/main.b9f6dcc3.chunk.js.map",
-    "runtime-main.js": "/cocktail-recipe-app/static/js/runtime-main.cf1abd35.js",
-    "runtime-main.js.map": "/cocktail-recipe-app/static/js/runtime-main.cf1abd35.js.map",
-    "static/js/2.e42185e2.chunk.js": "/cocktail-recipe-app/static/js/2.e42185e2.chunk.js",
-    "static/js/2.e42185e2.chunk.js.map": "/cocktail-recipe-app/static/js/2.e42185e2.chunk.js.map",
-    "index.html": "/cocktail-recipe-app/index.html",
-    "precache-manifest.5ec61e000a09b9a23238341a2f381ea4.js": "/cocktail-recipe-app/precache-manifest.5ec61e000a09b9a23238341a2f381ea4.js",
-    "service-worker.js": "/cocktail-recipe-app/service-worker.js",
-    "static/css/main.5c529f91.chunk.css.map": "/cocktail-recipe-app/static/css/main.5c529f91.chunk.css.map",
-    "static/js/2.e42185e2.chunk.js.LICENSE.txt": "/cocktail-recipe-app/static/js/2.e42185e2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/cocktail-recipe-app/static/media/logo.9a3d2645.svg"
+    "main.css": "/react/cocktail-recipe-app/static/css/main.5c529f91.chunk.css",
+    "main.js": "/react/cocktail-recipe-app/static/js/main.b9f6dcc3.chunk.js",
+    "main.js.map": "/react/cocktail-recipe-app/static/js/main.b9f6dcc3.chunk.js.map",
+    "runtime-main.js": "/react/cocktail-recipe-app/static/js/runtime-main.81a9f6ae.js",
+    "runtime-main.js.map": "/react/cocktail-recipe-app/static/js/runtime-main.81a9f6ae.js.map",
+    "static/js/2.e42185e2.chunk.js": "/react/cocktail-recipe-app/static/js/2.e42185e2.chunk.js",
+    "static/js/2.e42185e2.chunk.js.map": "/react/cocktail-recipe-app/static/js/2.e42185e2.chunk.js.map",
+    "index.html": "/react/cocktail-recipe-app/index.html",
+    "precache-manifest.b74625e637a4ec614087e7f2fa6f5855.js": "/react/cocktail-recipe-app/precache-manifest.b74625e637a4ec614087e7f2fa6f5855.js",
+    "service-worker.js": "/react/cocktail-recipe-app/service-worker.js",
+    "static/css/main.5c529f91.chunk.css.map": "/react/cocktail-recipe-app/static/css/main.5c529f91.chunk.css.map",
+    "static/js/2.e42185e2.chunk.js.LICENSE.txt": "/react/cocktail-recipe-app/static/js/2.e42185e2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react/cocktail-recipe-app/static/media/logo.9a3d2645.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf1abd35.js",
+    "static/js/runtime-main.81a9f6ae.js",
     "static/js/2.e42185e2.chunk.js",
     "static/css/main.5c529f91.chunk.css",
     "static/js/main.b9f6dcc3.chunk.js"
