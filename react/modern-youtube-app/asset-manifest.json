@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react/modern-youtube-app/static/css/main.7064deb2.css",
+    "main.js": "/react/modern-youtube-app/static/js/main.3b02cce1.js",
+    "index.html": "/react/modern-youtube-app/index.html",
+    "main.7064deb2.css.map": "/react/modern-youtube-app/static/css/main.7064deb2.css.map",
+    "main.3b02cce1.js.map": "/react/modern-youtube-app/static/js/main.3b02cce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.3b02cce1.js"
+  ]
+}
